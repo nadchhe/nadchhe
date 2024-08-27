@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩🏻‍💻AI Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓Studied Computer Science at Helwan University<br>💭Currently learning about Chatbots<br?
+👩🏻‍💻AI Engineer sharing about my journey and learnings in tech<br>👩🏻‍🎓Studied Computer Science at Helwan University<br>💭Currently learning about Chatbots
 
 ![](https://github-readme-stats.vercel.app/api?username=nadchhe&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
